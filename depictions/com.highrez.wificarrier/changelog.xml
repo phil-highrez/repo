@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Removed firmware>10 check that was casuing the install to fail</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>Fixed missing settings section</change>
 	</changes>
