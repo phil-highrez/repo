@@ -1,7 +1,7 @@
 <package>
 	<id>com.highrez.wificarrier</id>
 	<name>WiFiCarrier+</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,7 +22,7 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Fixed missing settings section</change>
+		<change>Fixed issue causing error during installation (firmeware>10)</change>
 	</changelog>
 	<links>
 		<link>
