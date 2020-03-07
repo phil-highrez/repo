@@ -1,0 +1,39 @@
+<package>
+	<id>com.highrez.wificarrier</id>
+	<name>WiFiCarrier+</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>IOS 13 version of NoisyFlake's WiFiCarrier</description>
+		<description>Created by Phil</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings</description>
+			<image>screenshot.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Contact</name>
+			<url>https://www.reddit.com/user/philhighrez/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>		
+	</links>
+</package>

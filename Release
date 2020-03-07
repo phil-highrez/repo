@@ -1,0 +1,11 @@
+Origin: phil-highrez.github.io
+Label: phil-highrez.github.io
+Description: Phils' Repo
+Suite: stable 
+Codename: ios 
+Architectures: iphoneos-arm
+Components: main 
+MD5Sum:
+ 6d82cf11c9694ae6dee701c66d0b5ce5 547 Packages
+ b804f1301d43c09b9e25f02dff49c430 373 Packages.gz
+
