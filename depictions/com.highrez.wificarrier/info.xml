@@ -1,7 +1,7 @@
 <package>
 	<id>com.highrez.wificarrier</id>
 	<name>WiFiCarrier+</name>
-	<version>1.0.2</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -12,7 +12,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>IOS 13 version of NoisyFlake's WiFiCarrier</description>
+		<description>IOS 12/13 version of NoisyFlake's WiFiCarrier</description>
 		<description>Created by Phil</description>
 	</descriptionlist>
 	<screenshots>
@@ -22,7 +22,7 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Fixed issue causing error during installation (firmeware>10)</change>
+		<change>Added new features and stability fixes</change>
 	</changelog>
 	<links>
 		<link>
