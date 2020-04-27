@@ -1,5 +1,19 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change>Added ability to get public/internal IP address and show instead of carrier text.</change>
+		<change>Added ability hide carrier text by specifying an empty custom carrier text.</change>
+		<change>Added long press gesture to cycle through enabled carrier text display options.</change>
+		<change>Added simple debug logging/sending via email.</change>
+		<change>Improved IOS 12 compatibility.</change>
+		<change>Various stability fixes.</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Internal/Beta testing.</change>
+	</changes>
+
+	<changes>
 		<version>1.0.2</version>
 		<change>Removed firmware>10 check that was casuing the install to fail</change>
 	</changes>

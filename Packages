@@ -46,3 +46,19 @@ Size: 22064
 MD5Sum: 2735ed979a304ef7a150f7d061f73fba
 SHA1: 9d9ce06d2c6dc8eaa6f73d31b8635d56269d55dc
 
+Package: com.highrez.wificarrier
+Version: 1.0.4
+Name: WiFiCarrier+
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: An Enhanced version of NoisyFlake WiFiCarrier for IOS 13. Supports additions for WiFi Calling
+Depiction: https://phil-highrez.github.io/repo/depictions/?p=com.highrez.wificarrier
+Maintainer: Phil <phil@highrez.co.uk>
+Author: Phil, NoisyFlake
+Depends: mobilesubstrate
+Installed-Size: 396
+Filename: ./debs/com.highrez.wificarrier_1.0.4_iphoneos-arm.deb
+Size: 32746
+MD5Sum: 73fd38d8bc8d105bf69fa454443605f1
+SHA1: 3dfcd919aeb0b9637a9508f510361b5514ecb00c
+
